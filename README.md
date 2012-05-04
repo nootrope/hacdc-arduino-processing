@@ -1,4 +1,10 @@
 hacdc-arduino-processing
 ========================
 
-code for 4 workshops
+Code for the four 2012 WPA+HacDC Arduino/Processing workshops at Artisphere
+
+test
+----
+
+Unit tests for the components of the Sparkfun Danger Shield.
+
