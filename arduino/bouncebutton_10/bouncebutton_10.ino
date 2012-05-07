@@ -7,6 +7,7 @@ Bounce bouncer = Bounce(button,5 );
 
 void setup() {
   pinMode(button,INPUT);
+  digitalWrite(button, HIGH);
   pinMode(led,OUTPUT);
 }
 
